@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="utf-8"?>
+<csscolors>
+
+    <color>
+        <name>AliceBlue</name>
+        <hex>#F0F8FF</hex>
+    </color>
+
+    <color>
+        <name>AntiqueWhite</name>
+        <hex>#FAEBD7</hex>
+    </color>
+
+    <color>
+        <name>Aqua</name>
+        <hex>#00FFFF</hex>
+    </color>
+
+    <color>
+        <name>Aquamarine</name>
+        <hex>#7FFFD4</hex>
+    </color>
+
+    <color>
+        <name>Azure</name>
+        <hex>#F0FFFF</hex>
+    </color>
+
+    <color>
+        <name>Beige</name>
+        <hex>#F5F5DC</hex>
+    </color>
+
+    <color>
+        <name>Bisque</name>
+        <hex>#FFE4C4</hex>
+    </color>
+
+    <color>
+        <name>Black</name>
+        <hex>#000000</hex>
+    </color>
+
+    <color>
+        <name>BlanchedAlmond</name>
+        <hex>#FFEBCD</hex>
+    </color>
+
+    <color>
+        <name>Blue</name>
+        <hex>#0000FF</hex>
+    </color>
+
+    <color>
+        <name>BlueViolet</name>
+        <hex>#8A2BE2</hex>
+    </color>
+
+    <color>
+        <name>Brown</name>
+        <hex>#A52A2A</hex>
+    </color>
+
+    <color>
+        <name>BurlyWood</name>
+        <hex>#DEB887</hex>
+    </color>
+
+    <color>
+        <name>CadetBlue</name>
+        <hex>#5F9EA0</hex>
+    </color>
+
+    <color>
+        <name>Chartreuse</name>
+        <hex>#7FFF00</hex>
+    </color>
+
+    <color>
+        <name>Chocolate</name>
+        <hex>#D2691E</hex>
+    </color>
+
+    <color>
+        <name>Coral</name>
+        <hex>#FF7F50</hex>
+    </color>
+
+    <color>
+        <name>CornflowerBlue</name>
+        <hex>#6495ED</hex>
+    </color>
+
+    <color>
+        <name>Cornsilk</name>
+        <hex>#FFF8DC</hex>
+    </color>
+
+    <color>
+        <name>Crimson</name>
+        <hex>#DC143C</hex>
+    </color>
+
+    <color>
+        <name>Cyan</name>
+        <hex>#00FFFF</hex>
+    </color>
+
+    <color>
+        <name>DarkBlue</name>
+        <hex>#00008B</hex>
+    </color>
+
+    <color>
+        <name>DarkCyan</name>
+        <hex>#008B8B</hex>
+    </color>
+
+    <color>
+        <name>DarkGoldenRod</name>
+        <hex>#B8860B</hex>
+    </color>
+
+    <color>
+        <name>DarkGray</name>
+        <hex>#A9A9A9</hex>
+    </color>
+
+    <color>
+        <name>DarkGreen</name>
+        <hex>#006400</hex>
+    </color>
+
+    <color>
+        <name>DarkKhaki</name>
+        <hex>#BDB76B</hex>
+    </color>
+
+    <color>
+        <name>DarkMagenta</name>
+        <hex>#8B008B</hex>
+    </color>
+
+    <color>
+        <name>DarkOliveGreen</name>
+        <hex>#556B2F</hex>
+    </color>
+
+    <color>
+        <name>Darkorange</name>
+        <hex>#FF8C00</hex>
+    </color>
+
+    <color>
+        <name>DarkOrchid</name>
+        <hex>#9932CC</hex>
+    </color>
+
+    <color>
+        <name>DarkRed</name>
+        <hex>#8B0000</hex>
+    </color>
+
+    <color>
+        <name>DarkSalmon</name>
+        <hex>#E9967A</hex>
+    </color>
+
+    <color>
+        <name>DarkSeaGreen</name>
+        <hex>#8FBC8F</hex>
+    </color>
+
+    <color>
+        <name>DarkSlateBlue</name>
+        <hex>#483D8B</hex>
+    </color>
+
+    <color>
+        <name>DarkSlateGray</name>
+        <hex>#2F4F4F</hex>
+    </color>
+
+    <color>
+        <name>DarkTurquoise</name>
+        <hex>#00CED1</hex>
+    </color>
+
+    <color>
+        <name>DarkViolet</name>
+        <hex>#9400D3</hex>
+    </color>
+
+    <color>
+        <name>DeepPink</name>
+        <hex>#FF1493</hex>
+    </color>
+
+    <color>
+        <name>DeepSkyBlue</name>
+        <hex>#00BFFF</hex>
+    </color>
+
+    <color>
+        <name>DimGray</name>
+        <hex>#696969</hex>
+    </color>
+
+    <color>
+        <name>DodgerBlue</name>
+        <hex>#1E90FF</hex>
+    </color>
+
+    <color>
+        <name>Feldspar</name>
+        <hex>#D19275</hex>
+    </color>
+
+    <color>
+        <name>FireBrick</name>
+        <hex>#B22222</hex>
+    </color>
+
+    <color>
+        <name>FloralWhite</name>
+        <hex>#FFFAF0</hex>
+    </color>
+
+    <color>
+        <name>ForestGreen</name>
+        <hex>#228B22</hex>
+    </color>
+
+    <color>
+        <name>Fuchsia</name>
+        <hex>#FF00FF</hex>
+    </color>
+
+    <color>
+        <name>Gainsboro</name>
+        <hex>#DCDCDC</hex>
+    </color>
+
+    <color>
+        <name>GhostWhite</name>
+        <hex>#F8F8FF</hex>
+    </color>
+
+    <color>
+        <name>Gold</name>
+        <hex>#FFD700</hex>
+    </color>
+
+    <color>
+        <name>GoldenRod</name>
+        <hex>#DAA520</hex>
+    </color>
+
+    <color>
+        <name>Gray</name>
+        <hex>#808080</hex>
+    </color>
+
+    <color>
+        <name>Green</name>
+        <hex>#008000</hex>
+    </color>
+
+    <color>
+        <name>GreenYellow</name>
+        <hex>#ADFF2F</hex>
+    </color>
+
+    <color>
+        <name>HoneyDew</name>
+        <hex>#F0FFF0</hex>
+    </color>
+
+    <color>
+        <name>HotPink</name>
+        <hex>#FF69B4</hex>
+    </color>
+
+    <color>
+        <name>IndianRed </name>
+        <hex>#CD5C5C</hex>
+    </color>
+
+    <color>
+        <name>Indigo  </name>
+        <hex>#4B0082</hex>
+    </color>
+
+    <color>
+        <name>Ivory</name>
+        <hex>#FFFFF0</hex>
+    </color>
+
+    <color>
+        <name>Khaki</name>
+        <hex>#F0E68C</hex>
+    </color>
+
+    <color>
+        <name>Lavender</name>
+        <hex>#E6E6FA</hex>
+    </color>
+
+    <color>
+        <name>LavenderBlush</name>
+        <hex>#FFF0F5</hex>
+    </color>
+
+    <color>
+        <name>LawnGreen</name>
+        <hex>#7CFC00</hex>
+    </color>
+
+    <color>
+        <name>LemonChiffon</name>
+        <hex>#FFFACD</hex>
+    </color>
+
+    <color>
+        <name>LightBlue</name>
+        <hex>#ADD8E6</hex>
+    </color>
+
+    <color>
+        <name>LightCoral</name>
+        <hex>#F08080</hex>
+    </color>
+
+    <color>
+        <name>LightCyan</name>
+        <hex>#E0FFFF</hex>
+    </color>
+
+    <color>
+        <name>LightGoldenRodYellow</name>
+        <hex>#FAFAD2</hex>
+    </color>
+
+    <color>
+        <name>LightGrey</name>
+        <hex>#D3D3D3</hex>
+    </color>
+
+    <color>
+        <name>LightGreen</name>
+        <hex>#90EE90</hex>
+    </color>
+
+    <color>
+        <name>LightPink</name>
+        <hex>#FFB6C1</hex>
+
+    </color>
+
+    <color>
+        <name>LightSalmon</name>
+        <hex>#FFA07A</hex>
+    </color>
+
+    <color>
+        <name>LightSeaGreen</name>
+        <hex>#20B2AA</hex>
+    </color>
+
+    <color>
+        <name>LightSkyBlue</name>
+        <hex>#87CEFA</hex>
+    </color>
+
+    <color>
+        <name>LightSlateBlue</name>
+        <hex>#8470FF</hex>
+    </color>
+
+    <color>
+        <name>LightSlateGray</name>
+        <hex>#778899</hex>
+    </color>
+
+    <color>
+        <name>LightSteelBlue</name>
+        <hex>#B0C4DE</hex>
+    </color>
+
+    <color>
+        <name>LightYellow</name>
+        <hex>#FFFFE0</hex>
+    </color>
+
+    <color>
+        <name>Lime</name>
+        <hex>#00FF00</hex>
+    </color>
+
+    <color>
+        <name>LimeGreen</name>
+        <hex>#32CD32</hex>
+    </color>
+
+    <color>
+        <name>Linen</name>
+        <hex>#FAF0E6</hex>
+    </color>
+
+    <color>
+        <name>Magenta</name>
+        <hex>#FF00FF</hex>
+    </color>
+
+    <color>
+        <name>Maroon</name>
+        <hex>#800000</hex>
+    </color>
+
+    <color>
+        <name>MediumAquaMarine</name>
+        <hex>#66CDAA</hex>
+    </color>
+
+    <color>
+        <name>MediumBlue</name>
+        <hex>#0000CD</hex>
+    </color>
+
+    <color>
+        <name>MediumOrchid</name>
+        <hex>#BA55D3</hex>
+    </color>
+
+    <color>
+        <name>MediumPurple</name>
+        <hex>#9370D8</hex>
+    </color>
+
+    <color>
+        <name>MediumSeaGreen</name>
+        <hex>#3CB371</hex>
+    </color>
+
+    <color>
+        <name>MediumSlateBlue</name>
+        <hex>#7B68EE</hex>
+    </color>
+
+    <color>
+        <name>MediumSpringGreen</name>
+        <hex>#00FA9A</hex>
+    </color>
+
+    <color>
+        <name>MediumTurquoise</name>
+        <hex>#48D1CC</hex>
+    </color>
+
+    <color>
+        <name>MediumVioletRed</name>
+        <hex>#C71585</hex>
+    </color>
+
+    <color>
+        <name>MidnightBlue</name>
+        <hex>#191970</hex>
+    </color>
+
+    <color>
+        <name>MintCream</name>
+        <hex>#F5FFFA</hex>
+    </color>
+
+    <color>
+        <name>MistyRose</name>
+        <hex>#FFE4E1</hex>
+    </color>
+
+    <color>
+        <name>Moccasin</name>
+        <hex>#FFE4B5</hex>
+    </color>
+
+    <color>
+        <name>NavajoWhite</name>
+        <hex>#FFDEAD</hex>
+    </color>
+
+    <color>
+        <name>Navy</name>
+        <hex>#000080</hex>
+    </color>
+
+    <color>
+        <name>OldLace</name>
+        <hex>#FDF5E6</hex>
+    </color>
+
+    <color>
+        <name>Olive</name>
+        <hex>#808000</hex>
+    </color>
+
+    <color>
+        <name>OliveDrab</name>
+        <hex>#6B8E23</hex>
+    </color>
+
+    <color>
+        <name>Orange</name>
+        <hex>#FFA500</hex>
+    </color>
+
+    <color>
+        <name>OrangeRed</name>
+        <hex>#FF4500</hex>
+    </color>
+
+    <color>
+        <name>Orchid</name>
+        <hex>#DA70D6</hex>
+    </color>
+
+    <color>
+        <name>PaleGoldenRod</name>
+        <hex>#EEE8AA</hex>
+    </color>
+
+    <color>
+        <name>PaleGreen</name>
+        <hex>#98FB98</hex>
+    </color>
+
+    <color>
+        <name>PaleTurquoise</name>
+        <hex>#AFEEEE</hex>
+    </color>
+
+    <color>
+        <name>PaleVioletRed</name>
+        <hex>#D87093</hex>
+    </color>
+
+    <color>
+        <name>PapayaWhip</name>
+        <hex>#FFEFD5</hex>
+    </color>
+
+    <color>
+        <name>PeachPuff</name>
+        <hex>#FFDAB9</hex>
+    </color>
+
+    <color>
+        <name>Peru</name>
+        <hex>#CD853F</hex>
+    </color>
+
+    <color>
+        <name>Pink</name>
+        <hex>#FFC0CB</hex>
+    </color>
+
+    <color>
+        <name>Plum</name>
+        <hex>#DDA0DD</hex>
+    </color>
+
+    <color>
+        <name>PowderBlue</name>
+        <hex>#B0E0E6</hex>
+    </color>
+
+    <color>
+        <name>Purple</name>
+        <hex>#800080</hex>
+    </color>
+
+    <color>
+        <name>Red</name>
+        <hex>#FF0000</hex>
+    </color>
+
+    <color>
+        <name>RosyBrown</name>
+        <hex>#BC8F8F</hex>
+    </color>
+
+    <color>
+        <name>RoyalBlue</name>
+        <hex>#4169E1</hex>
+    </color>
+
+    <color>
+        <name>SaddleBrown</name>
+        <hex>#8B4513</hex>
+    </color>
+
+    <color>
+        <name>Salmon</name>
+        <hex>#FA8072</hex>
+    </color>
+
+    <color>
+        <name>SandyBrown</name>
+        <hex>#F4A460</hex>
+    </color>
+
+    <color>
+        <name>SeaGreen</name>
+        <hex>#2E8B57</hex>
+    </color>
+
+    <color>
+        <name>SeaShell</name>
+        <hex>#FFF5EE</hex>
+    </color>
+
+    <color>
+        <name>Sienna</name>
+        <hex>#A0522D</hex>
+    </color>
+
+    <color>
+        <name>Silver</name>
+        <hex>#C0C0C0</hex>
+    </color>
+
+    <color>
+        <name>SkyBlue</name>
+        <hex>#87CEEB</hex>
+    </color>
+
+    <color>
+        <name>SlateBlue</name>
+        <hex>#6A5ACD</hex>
+    </color>
+
+    <color>
+        <name>SlateGray</name>
+        <hex>#708090</hex>
+    </color>
+
+    <color>
+        <name>Snow</name>
+        <hex>#FFFAFA</hex>
+    </color>
+
+    <color>
+        <name>SpringGreen</name>
+        <hex>#00FF7F</hex>
+    </color>
+
+    <color>
+        <name>SteelBlue</name>
+        <hex>#4682B4</hex>
+    </color>
+
+    <color>
+        <name>Tan</name>
+        <hex>#D2B48C</hex>
+    </color>
+
+    <color>
+        <name>Teal</name>
+        <hex>#008080</hex>
+    </color>
+
+    <color>
+        <name>Thistle</name>
+        <hex>#D8BFD8</hex>
+    </color>
+
+    <color>
+        <name>Tomato</name>
+        <hex>#FF6347</hex>
+    </color>
+
+    <color>
+        <name>Turquoise</name>
+        <hex>#40E0D0</hex>
+    </color>
+
+    <color>
+        <name>Violet</name>
+        <hex>#EE82EE</hex>
+    </color>
+
+    <color>
+        <name>VioletRed</name>
+        <hex>#D02090</hex>
+    </color>
+
+    <color>
+        <name>Wheat</name>
+        <hex>#F5DEB3</hex>
+    </color>
+
+    <color>
+        <name>White</name>
+        <hex>#FFFFFF</hex>
+    </color>
+
+    <color>
+        <name>WhiteSmoke</name>
+        <hex>#F5F5F5</hex>
+    </color>
+
+    <color>
+        <name>Yellow</name>
+        <hex>#FFFF00</hex>
+    </color>
+
+    <color>
+        <name>YellowGreen</name>
+        <hex>#9ACD32</hex>
+    </color>
+
+</csscolors>
